@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ActiveDirectoryVerify" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="LadapHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LadapPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">389</Value>
+    </Setting>
+    <Setting Name="AdminAccount" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PropertyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail</Value>
+    </Setting>
+    <Setting Name="PropertyValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SearchBaseDn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
